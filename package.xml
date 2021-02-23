@@ -8,5 +8,12 @@
         <members>Survey_Request__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Survey_Request__c.name</members>
+        <members>Survey_Request__c.Status__c</members>
+        <members>Survey_Request__c.Stop_Started_Date__c</members>
+        <members>Survey_Request__c.Total_Stop_Duration_in_Days__c</members>
+        <name>CustomField</name>
+    </types>
     <version>50.0</version>
 </Package>
